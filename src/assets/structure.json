@@ -1,0 +1,21 @@
+{
+  "Slides": {
+    "Progress Reports": {
+      "path": "progress-reports",
+      "subPages": {
+        "20210917": {
+          "path": "20210917"
+        },
+        "20220309": {
+          "path": "20220309"
+        }
+      }
+    },
+    "Transformer in Transformer": {
+      "path": "transformer-in-transformer"
+    },
+    "Seminar": {
+      "path": "seminar"
+    }
+  }
+}
